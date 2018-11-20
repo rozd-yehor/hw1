@@ -1,5 +1,3 @@
-package ua.org.oa.erozdolovskiy;
-
 public class Runner {
     public static void main(String[] args) {
         LibraryBook book = new LibraryBook();

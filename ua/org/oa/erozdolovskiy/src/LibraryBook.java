@@ -1,5 +1,3 @@
-package ua.org.oa.erozdolovskiy;
-
 /**
  * Book object is described in the above class. Class contains methods which
  * put the book on the bookshelf, set location of the book on the bookshelf,
